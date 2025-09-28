@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7474eb42-2182-467f-90a4-289c99784153" name="Changes" comment="" />
+    <list default="true" id="7474eb42-2182-467f-90a4-289c99784153" name="Changes" comment="update: file structure">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "66050207-Nonthakorn"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;66050207-Nonthakorn&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/66050207-Nonthakorn/android-lab.git",
-    "accountId": "e596d10b-9631-4661-b7da-f07f7f0587a1"
+    "accountId": "d2646a47-819a-4d89-b68f-4806c447b2ce"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="30ARDj7LdJ5xSjl3WWv1CFdd01z" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,8 +52,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/apple/Documents/University/Android/android-lab/src/Main.kt"
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/apple/Documents/University/Android/android-lab/src/Main.kt",
+    "show.migrate.to.gradle.popup": "false"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -75,6 +80,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7474eb42-2182-467f-90a4-289c99784153" name="Changes" comment="" />
